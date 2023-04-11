@@ -1,0 +1,55 @@
+
+.sect{
+    /* padding-top: 100px; */
+    /* padding-bottom: 100px; */
+     background-image: url('images/fast_foodcontainer.svg'); 
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* background-position-y: -80px; */
+    /* background-position-x: -40px; */
+    /* border:1px solid red; */
+};
+
+ #abt{
+    background-image: url('images/About_Us_container.svg');
+}; 
+
+
+
+
+
+#partners1{
+background-color: white; width: 180px;
+height: 97px;
+left: 415px;
+top: 4066px;
+}
+
+#partners2{
+    background-color: white; width: 180px;
+    height: 97px;
+    left: 415px;
+    top: 4066px;
+    }
+
+ #partners3{
+        background-color: white; width: 180px;
+        height: 97px;
+        left: 415px;
+        top: 4066px;
+        }
+
+ #partners4{
+            background-color: #BCBCBC; width: 180px;
+            height: 97px;
+            left: 415px;
+            top: 4066px;
+            }
+
+  #partners5{
+               background-color: #BCBCBC; width: 180px;
+                height: 97px;
+                left: 415px;
+                top: 4066px;
+                }
+
