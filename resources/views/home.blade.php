@@ -33,7 +33,7 @@
 
 
                 <p class="lead text-center text-md-start text-muted mb-6 mb-lg-8">
-                  NiceMenu deliver premium and well-cooked meals from your our restaurant to your doorstep in minutes without stressing you out.
+                  NiceMenu deliver premium and well-cooked meals from your our restaurant to your doorstep in minutes without stressing you outoooo.
                 </p>
 
 
